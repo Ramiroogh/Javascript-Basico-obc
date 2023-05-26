@@ -1,0 +1,15 @@
+{
+  "name": "proyecto1-node-openbootcamp",
+  "version": "1.0.0",
+  "description": "primero proyecto del curso-javascript-basico, openbootcamp",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "comentario": "node comentarioEnNode.js.js",
+    "start": "node comentarioEnNode.js"
+  },
+  "keywords": [
+    "holamundo"
+  ],
+  "author": "ramiro navarrete",
+  "license": "ISC"
+}
